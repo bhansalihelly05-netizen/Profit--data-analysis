@@ -3,6 +3,7 @@
 
 This project analyzes company profitability by examining the impact of R&D, Marketing, and Administration spending across multiple states.
 An interactive dashboard was built to identify key profit drivers, compare state-wise performance, and support data-driven investment decisions.
+![Profit Data Analysis Dashboard](dashboard.png)
 
 🎯 Business Objective
 
